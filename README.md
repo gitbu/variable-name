@@ -7,3 +7,5 @@
 `concepts` 感念
 
 `coincidence` 一致
+
+`screenshot` 屏幕截图
