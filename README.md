@@ -9,3 +9,6 @@
 `coincidence` 一致
 
 `screenshot` 屏幕截图
+
+# 符号类
+`slash` 斜线
