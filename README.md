@@ -10,5 +10,7 @@
 
 `screenshot` 屏幕截图
 
+`normalize` 规范化
+
 # 符号类
 `slash` 斜线
