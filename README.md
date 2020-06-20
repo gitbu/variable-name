@@ -12,5 +12,7 @@
 
 `normalize` 规范化
 
+`extension` 扩展
+
 # 符号类
 `slash` 斜线
