@@ -14,5 +14,7 @@
 
 `extension` 扩展
 
+`evaluate` 求值
+
 # 符号类
 `slash` 斜线
