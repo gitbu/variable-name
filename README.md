@@ -18,5 +18,7 @@
 
 `signature` 信号
 
+`credential` 证书
+
 # 符号类
 `slash` 斜线
