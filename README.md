@@ -20,5 +20,7 @@
 
 `credential` 证书
 
+`algrithm` 算法
+
 # 符号类
 `slash` 斜线
