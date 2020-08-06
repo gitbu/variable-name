@@ -16,5 +16,7 @@
 
 `evaluate` 求值
 
+`signature` 信号
+
 # 符号类
 `slash` 斜线
